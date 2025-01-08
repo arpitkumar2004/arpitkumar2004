@@ -1,62 +1,103 @@
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/83422204/236422288-5115939c-c9c4-42f0-a083-09419b16552e.gif" width="200"/>
-  <h1>Hi 👋, I'm [Your Username]</h1>
-  <h3>A passionate [Your Area of Interest, e.g., Full-Stack Web Developer]</h3>
-  <p>Constantly learning and exploring new technologies.</p>
+  <img src="https://media.giphy.com/media/WUlplcLHhOCYSTTbm/giphy.gif" width="200"/>
+  <h1>Hi 👋, I'm <span style="color:#4CAF50;">[Your Name]</span></h1>
+  <h3><em>Aspiring Data Scientist | Machine Learning Enthusiast | Curious Problem Solver</em></h3>
+  <blockquote>
+    <p><strong>"Turning raw data into actionable insights is my passion!"</strong></p>
+  </blockquote>
+  <p>I’m driven by curiosity and the excitement of solving real-world problems using data. My mission? Build intelligent, scalable, and impactful systems that make a difference.</p>
 </div>
 
-<br/>
+---
 
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=[Your Username]&show_icons=true&theme=tokyonight" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=[Your Username]&show_icons=true&theme=radical&hide_border=true" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[Your Username]&layout=compact&theme=radical&hide_border=true&langs_count=8" width="49%" />
+</div>
+
+---
+
+## 🌟 About Me
+
+👩‍💻 **Who am I?**  
+I’m a **Data Scientist** and **Machine Learning Enthusiast** with experience in **end-to-end machine learning pipelines** and **cloud-based AI deployments**. My strengths lie in applying AI to real-world challenges and building tools that drive decisions. 
+
+🌱 **What am I learning?**  
+Currently delving into **Generative AI**, **Large Language Models (LLMs)**, and **MLOps for scalable deployments**.
+
+✨ **What sets me apart?**  
+- Strong focus on **impact-driven projects** with measurable outcomes.  
+- Ability to bridge the gap between **data engineering, AI, and business insights**.  
+- Dedicated to **creative problem-solving** through innovative approaches.
+
+---
+
+## 🛠️ Skills & Tools
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,scikitlearn,aws,azure,gcp,docker,jupyter,sql,git" alt="Skills Icons">
+</div>
+
+#### **Languages & Frameworks**
+- **Programming:** `Python`, `R`, `SQL`, `JavaScript`
+- **Frameworks:** `TensorFlow`, `PyTorch`, `Scikit-learn`, `XGBoost`, `LightGBM`
+
+#### **Cloud & Tools**
+- **Cloud Platforms:** `AWS`, `Azure`, `GCP`  
+- **Others:** `Docker`, `Git`, `Streamlit`, `PowerBI`, `Airflow`
+
+#### **Core Expertise**
+- **Machine Learning:** Supervised & Unsupervised Learning, Time Series, Natural Language Processing (NLP)  
+- **Data Engineering:** Data wrangling, ETL pipelines, Cloud-based deployments  
+- **Visualization:** Matplotlib, Seaborn, Plotly, Tableau  
+
+---
+
+## 🚀 Featured Projects
+
+| 🌟 Project Name                           | 🔍 Highlights                                                                                         | 🔗 Links                                                                                     |
+|------------------------------------------|-----------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------|
+| **Real-time Stock Predictor**            | Predicting stock prices using LSTMs and integrating it with a live dashboard for insights.           | [GitHub](https://github.com/[Your Username]/stock-price-prediction)                         |
+| **Customer Churn Prediction**            | Built an end-to-end pipeline to predict customer churn with interpretability using SHAP values.      | [GitHub](https://github.com/[Your Username]/customer-churn-prediction)                     |
+| **AI-based Resume Screener**             | Leveraged NLP models to automate resume screening and rank candidates based on job descriptions.     | [GitHub](https://github.com/[Your Username]/ai-resume-screener)                            |
+| **Twitter Sentiment Analysis (Dashboard)**| Developed a real-time dashboard analyzing Twitter sentiment using NLP and deployed via Streamlit.   | [GitHub](https://github.com/[Your Username]/twitter-sentiment-dashboard)                   |
+
+---
+
+## 📜 Certifications & Achievements
+
+- 🥇 **AWS Certified Machine Learning Specialist**  
+- 📈 **Kaggle Expert**: Top 5% in [Competition Name]  
+- 🎓 **Coursera Specialization**: Applied Data Science with Python  
+- 🌍 Speaker at **[AI Conference/Event Name]**, presenting on [Specific Topic].
+
+---
+
+## 🌍 Let’s Connect!
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/[Your LinkedIn URL]" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[Your Username]&layout=compact&langs_count=8&card_width=495&theme=tokyonight" alt="Top Languages">
+  <a href="https://twitter.com/[Your Twitter URL]" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="mailto:[Your Email Address]" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="[Your Portfolio Website]" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-%23E4405F.svg?style=for-the-badge&logo=react&logoColor=white" />
   </a>
 </div>
 
+---
+
 <div align="center">
-  <a href="https://github.com/denvercoder1/github-readme-streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=[Your Username]&theme=tokyonight&border_radius=10" alt="GitHub Streak">
-  </a>
+  <img src="https://streak-stats.demolab.com?user=[Your Username]&theme=radical&hide_border=true&border_radius=10" alt="GitHub Streak Stats">
 </div>
 
-<br/>
-
-## About Me
-
-I'm a [Your Profession/Student] with a strong interest in [Your Interests]. I'm proficient in [List your primary languages] and continuously enhancing my skills. I enjoy building innovative and efficient solutions.
-
-## Skills
+---
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=javascript,python,java,html,css,react,nodejs,git,docker,aws,linux,mysql,mongodb,postgresql" alt="Skills Icons">
-</div>
-
-*   **Languages:** `JavaScript`, `Python`, `Java`, `C++`, `HTML`, `CSS`
-*   **Frameworks/Libraries:** `React`, `Node.js`, `Express`, `Django`, `TensorFlow`, `PyTorch`
-*   **Databases:** `MySQL`, `PostgreSQL`, `MongoDB`
-*   **Tools:** `Git`, `Docker`, `AWS`, `Linux`
-
-## Projects
-
-| Project Name         | Description                                                      | Link                                                                  |
-| -------------------- | ---------------------------------------------------------------- | --------------------------------------------------------------------- |
-| Project 1           | A brief description of your first project.                       | [Link to your project repository](https://github.com/[Your Username]/repo1) |
-| Project 2           | A concise description of your second project.                     | [Link to your project repository](https://github.com/[Your Username]/repo2) |
-| Project 3 (Optional) | A short description of another interesting project you've worked on. | [Link to your project repository](https://github.com/[Your Username]/repo3) |
-
-## Connect with Me
-
-<div align="center">
-<a href="YOUR_LINKEDIN_PROFILE_URL" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="YOUR_TWITTER_PROFILE_URL" target="_blank"><img src="https://img.shields.io/badge/-Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
-<a href="mailto:YOUR_GMAIL_ADDRESS" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div>
-
-<br/>
-
-<div align="center">
-  <p>"The only way to do great work is to love what you do." - Steve Jobs</p>
+  <h3><em>"Creativity is intelligence having fun." – Albert Einstein</em></h3>
 </div>
