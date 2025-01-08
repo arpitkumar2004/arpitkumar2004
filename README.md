@@ -10,15 +10,15 @@ My Portfolio Website [Portfolio Arpit Kumar](https://arpitkumar2004.github.io/da
 <hr>
 
 <a href="https://github.com/arpitkumar2004">
-<img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=proffapt&layout=compact&langs_count=8&theme=nightowl"/>
+<img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=arpitkumar2004&layout=compact&langs_count=8&theme=nightowl"/>
 </a>
 <a href="https://github.com/arpitkumar2004">
-<img width="460" src="https://github-readme-stats-eight-theta.vercel.app/api?username=proffapt&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true" align="right"/>
+<img width="460" src="https://github-readme-stats-eight-theta.vercel.app/api?username=arpitkumar2004&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true" align="right"/>
 </a>
 
 <br>
 <p>
 <a href="https://www.linkedin.com/in/arpit_kumar_shivam/">
-  <img src="https://komarev.com/ghpvc/?username=proffapt&style=flat-square" align="right"/>
+  <img src="https://komarev.com/ghpvc/?username=arpitkumar2004&style=flat-square" align="right"/>
 </a> 
 </p>
