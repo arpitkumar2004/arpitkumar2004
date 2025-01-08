@@ -1,7 +1,7 @@
 <h2>Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="33px">, I'm Arpit Kumar aka arpitkumar2004 </h2>
 I am an undergraduate from IIT Kharagpur. 
 
-Interested (and hence Reads) about Data Science, Machine Learning.<br>
+Interested about Data Science, Machine Learning.<br>
 My Portfolio Website [Portfolio Arpit Kumar](https://arpitkumar2004.github.io/data_science-portfolio-website-final/#/).
 <div align="center">
 ⭕️ <b>For Professional details</b> - <a href=".pdf" target="_blank" type="application/pdf"><b>READ MY RESUME</b> <img width="22px" src="https://img.icons8.com/bubbles/344/resume.png"></a>
