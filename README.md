@@ -18,7 +18,7 @@ My Portfolio Website [Portfolio Arpit Kumar](https://arpitkumar2004.github.io/da
 
 <br>
 <p>
-<a href="https://www.linkedin.com/in/arpit_kumar_shivam/">
-  <img src="https://komarev.com/ghpvc/?username=arpitkumar2004&style=flat-square" align="right"/>
+<a href="https://www.linkedin.com/in/arpit-kumar-shivam/">
+  <img src="https://komarev.com/ghpvc/?username=arpitkumar2004&style=flat-square" align="center"/>
 </a> 
 </p>
