@@ -9,7 +9,7 @@
 
 <div>
 <a href="https://github.com/arpitkumar2004">
-<img height="160" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=arpitkumar2004&layout=compact&langs_count=8&theme=nightowl"/>
+<img height="160" width="400" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=arpitkumar2004&layout=compact&langs_count=8&theme=nightowl"/>
 </a>
 <a href="https://github.com/arpitkumar2004">
 <img width="400" src="https://github-readme-stats-eight-theta.vercel.app/api?username=arpitkumar2004&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true" align="right"/>
