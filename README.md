@@ -48,7 +48,6 @@
 ### 🔹 Software Engineering & Deployment  
 - MLOps (Model Deployment, CI/CD, Docker, Kubernetes)  
 - API Development for ML Models  
-- Edge AI & On-Device ML Optimization  
 - Serverless Computing (AWS Lambda, Google Cloud Functions)  
 
 
