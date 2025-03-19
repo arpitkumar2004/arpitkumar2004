@@ -24,8 +24,6 @@
   <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,scikitlearn,aws,azure,c,cpp,gcp,docker,vscode,git" alt="Skills Icons">
 </div>
 
-## 🛠️ Skills & Technologies  
-
 ### 🔹 Machine Learning & AI  
 - Supervised & Unsupervised Learning (Regression, Classification, Clustering)  
 - Deep Learning (CNNs, RNNs, Transformers)  
