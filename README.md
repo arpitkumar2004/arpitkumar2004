@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Hi 👋, I'm <span style="color:#4CAF50;"> Arpit Kumar</span></h1> 
   
-  <p>I am an undergraduate from IIT Kharagpur. Interested in Data Science and Machine Learning. I’m driven by curiosity and the excitement of solving real-world problems using data. My mission? Build intelligent, scalable, and impactful systems that make a difference.</p>
+  <p>I am a data science enthusiast with a strong foundation in <b>Machine learning, AI, and quantitative research</b>. I am pursuing a dual degree in Chemical Engineering with a minor in Machine Learning and AI at IIT Kharagpur. My passion lies in building data-driven solutions and integrating AI models into real-world applications.</p>
   <a align='centre', href="https://arpitkumar2004.github.io/data_science-portfolio-website-final/#/">My Portfolio Website</a>
 </div>
 
@@ -24,18 +24,32 @@
   <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,scikitlearn,aws,azure,c,cpp,gcp,docker,vscode,git" alt="Skills Icons">
 </div>
 
-##### **Languages & Frameworks**
-- **Programming:** `Python`, `C`, `C++`,` HTML`, `React`, `JavaScript`
-- **Frameworks:** `TensorFlow`, `PyTorch`, `Scikit-learn`, `XGBoost`, `LightGBM`
+## 🛠️ Skills & Technologies  
 
-##### **Cloud & Tools**
-- **Cloud Platforms:** `AWS`, `Azure`  
-- **Others:** `Docker`, `Git`, `Streamlit`, `PowerBI`, `MLflow`, `ZenML`
+### 🔹 Machine Learning & AI  
+- Supervised & Unsupervised Learning (Regression, Classification, Clustering)  
+- Deep Learning (CNNs, RNNs, Transformers)  
+- Feature Engineering (PCA, t-SNE, Autoencoders)  
+- Model Optimization (Hyperparameter Tuning, Bayesian Optimization)  
 
-##### **Core Expertise**
-- **Machine Learning:** Supervised & Unsupervised Learning, Time Series, Natural Language Processing (NLP)  
-- **Data Engineering:** Data wrangling, Cloud-based deployments  
-- **Visualization:** Matplotlib, Seaborn, Plotly, Tableau, Power BI
+### 🔹 Data Science & Analytics  
+- Statistical Modeling, Hypothesis Testing, A/B Testing  
+- Time-Series Forecasting (ARIMA, LSTMs, Prophet)  
+- Anomaly Detection, Outlier Analysis, Bayesian Inference  
+- Data Wrangling & Feature Extraction  
+
+### 🔹 Tools & Frameworks  
+- **Programming:** Python (NumPy, Pandas, Scikit-learn, TensorFlow, PyTorch, OpenCV)  
+- **Databases:** SQL (PostgreSQL, MySQL)  
+- **DevOps & Deployment:** Git, Docker, Kubernetes  
+- **Visualization:** Streamlit, Power BI, Tableau, Matplotlib, Seaborn, Plotly Dash  
+- **API Development:** Flask, FastAPI  
+
+### 🔹 Software Engineering & Deployment  
+- MLOps (Model Deployment, CI/CD, Docker, Kubernetes)  
+- API Development for ML Models  
+- Edge AI & On-Device ML Optimization  
+- Serverless Computing (AWS Lambda, Google Cloud Functions)  
 
 
 ## 🌍 Let’s Connect!
