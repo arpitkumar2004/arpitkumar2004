@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Hi 👋, I'm <span style="color:#4CAF50;"> Arpit Kumar</span></h1> 
   
-  <p>I am a data science enthusiast with a strong foundation in <b>Machine learning, AI, and quantitative research</b>. I am pursuing a dual degree course with a minor in Machine Learning and AI at IIT Kharagpur. My passion lies in building data-driven solutions and integrating AI models into real-world applications.</p>
+  <p>I am a data science enthusiast with a strong foundation in <b>Machine learning, AI, and quantitative research</b>. I am pursuing a dual degree course with a minor in Machine Learning and AI at <b>IIT Kharagpur</b>. My passion lies in building data-driven solutions and integrating AI models into real-world applications.</p>
   <a align='centre', href="https://arpitkumar2004.github.io/data_science-portfolio-website-final/#/">My Portfolio Website</a>
 </div>
 
