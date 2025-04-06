@@ -39,12 +39,12 @@
 ### 🔹 Tools & Frameworks  
 - **Programming:** Python (NumPy, Pandas, Scikit-learn, TensorFlow, PyTorch, OpenCV)  
 - **Databases:** SQL (PostgreSQL, MySQL)  
-- **DevOps & Deployment:** Git, Docker, Kubernetes  
+- **DevOps & Deployment:** Git, Docker
 - **Visualization:** Streamlit, Power BI, Tableau, Matplotlib, Seaborn, Plotly Dash  
 - **API Development:** Flask, FastAPI  
 
 ### 🔹 Software Engineering & Deployment  
-- MLOps (Model Deployment, CI/CD, Docker, Kubernetes)  
+- MLOps (Model Deployment, CI/CD, Docker)  
 - API Development for ML Models  
 - Serverless Computing (AWS Lambda, Google Cloud Functions)  
 
