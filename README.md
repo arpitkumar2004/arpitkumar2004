@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Hi 👋, I'm <span style="color:#4CAF50;"> Arpit Kumar</span></h1> 
   
-  <p>I am a data science enthusiast with a strong foundation in <b>Machine learning, AI, and quantitative research</b>. I am pursuing a dual degree course with a minor in Machine Learning and AI at <b>IIT Kharagpur</b>. My passion lies in building data-driven solutions and integrating AI models into real-world applications.</p>
+  <p>I am a undergrad student with a strong foundation in <b>Machine learning, AI, and quantitative research</b>. I am pursuing a dual degree course with a minor in Machine Learning and AI at <b>IIT Kharagpur</b>. My passion lies in building data-driven solutions and integrating AI models into real-world applications.</p>
   <a align='centre', href="https://arpitkumar2004.github.io/data_science-portfolio-website-final/#/">My Portfolio Website</a>
 </div>
 
@@ -40,7 +40,7 @@
 - **Programming:** Python (NumPy, Pandas, Scikit-learn, TensorFlow, PyTorch, OpenCV)  
 - **Databases:** SQL (PostgreSQL, MySQL)  
 - **DevOps & Deployment:** Git, Docker
-- **Visualization:** Streamlit, Power BI, Tableau, Matplotlib, Seaborn, Plotly Dash  
+- **Visualisation:** Streamlit, Power BI, Tableau, Matplotlib, Seaborn, Plotly Dash  
 - **API Development:** Flask, FastAPI  
 
 ### 🔹 Software Engineering & Deployment  
