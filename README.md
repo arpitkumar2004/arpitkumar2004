@@ -2,7 +2,7 @@
   <h1>Hi 👋, I'm <span style="color:#4CAF50;"> Arpit Kumar</span></h1> 
   
   <p align='centre'>I am pursuing a dual degree course at <b>IIT Kharagpur</b>, upskilling in <b>Machine learning, Deep Learning</b> and <b>Applied AI research</b>.</p></br> 
-  <a align='centre', href="https://arpitkumar2004.github.io/data_science-portfolio-website-final/#/">My Portfolio Website</a>
+  <a align='centre', href="https://data-science-portfolio-website-fina.vercel.app/">My Portfolio Website</a>
 </div>
 
 </br>
