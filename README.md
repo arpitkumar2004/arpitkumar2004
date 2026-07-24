@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0f172a,100:1e3a5f&height=210&section=header&text=Arpit%20Kumar&fontSize=56&fontColor=e2e8f0&fontAlign=50&fontAlignY=38&desc=ML%20Engineer%20%7C%20AI%20Researcher%20%7C%20IIT%20Kharagpur&descSize=15&descColor=94a3b8&descAlignY=62&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0f172a,100:1e3a5f&height=210&section=header&text=Arpit%20Kumar&fontSize=56&fontColor=e2e8f0&fontAlign=50&fontAlignY=38&desc=ML%20Engineer%20%7C%20AI%20Researcher%20%7C%20ATDC,%20IIT%20Kharagpur&descSize=15&descColor=94a3b8&descAlignY=62&animation=fadeIn" width="100%" />
 </div>
 
 <div align="center">
@@ -7,7 +7,7 @@
 [![Portfolio](https://img.shields.io/badge/arpitkumar.dev-0d1117?style=flat-square&logo=vercel&logoColor=3b82f6)](https://arpitkumar.dev)&ensp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=3b82f6)](https://linkedin.com/in/arpit-kumar-shivam)&ensp;
 [![Codeforces](https://img.shields.io/badge/CF%20Expert%20%C2%B7%201612-0d1117?style=flat-square&logo=codeforces&logoColor=3b82f6)](https://codeforces.com/profile/_Badassium)&ensp;
-[![Email](https://img.shields.io/badge/arpitkumar%40kgpian.iitkgp.ac.in-0d1117?style=flat-square&logo=gmail&logoColor=3b82f6)](mailto:arpitkumar@kgpian.iitkgp.ac.in)&ensp;
+[![Email](https://img.shields.io/badge/kumararpit17773%40gmail.com-0d1117?style=flat-square&logo=gmail&logoColor=3b82f6)](mailto:kumararpit17773@gmail.com)&ensp;
 [![Kaggle](https://img.shields.io/badge/Kaggle-0d1117?style=flat-square&logo=kaggle&logoColor=3b82f6)](https://kaggle.com/kumararpitiitkgp)
 
 </div>
@@ -98,6 +98,6 @@ Benchmarked 7 deep learning architectures on the NISP dataset — from CNN and R
 | Languages | <img src="https://skillicons.dev/icons?i=python,cpp,c,js,ts" height="28"/> |
 | Cloud & Tools | <img src="https://skillicons.dev/icons?i=gcp,aws,azure,git,linux,vscode" height="28"/> |
 
-<div align="center">
+<!-- <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a5f,50:0f172a,100:0d1117&height=120&section=footer" width="100%"/>
-</div>
+</div> -->
