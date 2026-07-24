@@ -114,7 +114,7 @@ Benchmarked 7 deep learning architectures on the NISP dataset — from CNN and R
 ## GitHub Analytics
 
 <div>
-  <a href="https://github.com/arpitkumar2004"><img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=arpitkumar2004&layout=compact&langs_count=8&theme=nightowl"/></a>   <a href="https://github.com/arpitkumar2004"><img src="https://github-readme-stats-eight-theta.vercel.app/api?username=arpitkumar2004&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true" align="right"/></a></div>
+  <a href="https://github.com/arpitkumar2004"><img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=arpitkumar2004&layout=compact&langs_count=8&theme=nightowl"/></a>   <a href="https://github.com/arpitkumar2004"><img width=600 src="https://github-readme-stats-eight-theta.vercel.app/api?username=arpitkumar2004&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true" align="right"/></a></div>
 
 <div align="center">
 </div>
